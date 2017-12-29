@@ -1,0 +1,8 @@
+name: MagicPlugin
+main: com.firefliesalco.www.Main
+author: firefliesalco
+version: 1.0
+commands:
+  wand:
+    description: Have fun with magic!
+    usage: /wand
